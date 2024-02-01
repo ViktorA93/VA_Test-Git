@@ -48,3 +48,7 @@ git status - команда, вызывающая блок информации 
 ## Lesson2
 git branch - команда котора вывводит ветки
 git branch name - псоздание ветки
+
+## Lesson3
+https://github.com/
+
